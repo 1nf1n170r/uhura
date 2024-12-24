@@ -2,5 +2,8 @@
 name = "uhura"
 version = "0.1.0"
 edition = "2021"
+description = "TODO"
+license = "MIT"
+repository = "https://github.com/1nf1n170r/uhura"
 
 [dependencies]
